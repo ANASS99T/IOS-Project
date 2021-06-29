@@ -50,9 +50,20 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>allow access</string>
+	<key>NSLocationUsageDescription</key>
+	<string>allow access</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>allow access</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>allow access</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>allow access</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
